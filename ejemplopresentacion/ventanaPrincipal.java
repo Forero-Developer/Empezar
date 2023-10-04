@@ -2,7 +2,6 @@
 package ejemplopresentacion;
 
 import java.awt.Color;
-import java.awt.Event;
 import java.awt.event.KeyEvent;
 
 
